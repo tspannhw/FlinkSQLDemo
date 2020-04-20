@@ -1,5 +1,5 @@
 # FlinkSQLDemo
-Apache Flink SQL
+**Apache Flink SQL Demo Setup**
 
 ```
 HADOOP_USER_NAME=hdfs hdfs dfs -mkdir /user/admin
@@ -13,13 +13,13 @@ flink-yarn-session -tm 2048 -s 2 -d
 ```
 
 
-Then run your sql client
+**Then run your sql client**
 
 ```
 flink-sql-client embedded
 ```
 
-Build a table
+**Build a table**
 
 ```
 CREATE TABLE sensors (
@@ -35,14 +35,14 @@ CREATE TABLE sensors (
 
 ```
 
-Show the table
+**Show the table**
 
 ```
 SHOW tables;
 
 ```
 
-Start our query.
+**Start our query.**
 
 ```
 SELECT * FROM sensors;
