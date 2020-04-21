@@ -55,6 +55,7 @@ SELECT * FROM sensors;
 
 * https://towardsdatascience.com/event-driven-supply-chain-for-crisis-with-flinksql-be80cb3ad4f9
 * https://docs.cloudera.com/csa/1.1.0/overview/topics/csa-overview.html
+* https://ci.apache.org/projects/flink/flink-docs-stable/dev/table/catalogs.html
 
 
 
