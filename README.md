@@ -49,6 +49,10 @@ SELECT * FROM sensors;
 ```
 
 
+**Flink SQL**
+
+image::images/cfmreferencearch.png[width=800]
+
 
 
 **References**
