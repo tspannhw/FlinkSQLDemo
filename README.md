@@ -49,3 +49,9 @@ SELECT * FROM sensors;
 ```
 
 
+
+**References**
+
+https://towardsdatascience.com/event-driven-supply-chain-for-crisis-with-flinksql-be80cb3ad4f9
+
+
