@@ -12,11 +12,10 @@ flink-yarn-session -tm 2048 -s 2 -d
 
 ```
 
-
 **Then run your sql client**
 
 ```
-flink-sql-client embedded
+flink-sql-client embedded -e sql-env.yaml
 ```
 
 **Build a table**
